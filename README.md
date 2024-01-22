@@ -1,6 +1,7 @@
-# btj_slicing_ui
+# Post Test Mobile Dev #1 - Slicing UI
 
-Post Test Mobile Dev #1 - Slicing UI
+Demo Video:
+<img src="https://github.com/dhilasdrh/btj-academy-fe-flutter-slicing/blob/main/post-test-flutter-1.gif" width=70%>
 
 ## Getting Started
 
